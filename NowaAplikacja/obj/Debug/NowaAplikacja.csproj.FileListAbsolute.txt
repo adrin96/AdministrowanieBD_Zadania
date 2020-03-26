@@ -1,0 +1,351 @@
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\NowaAplikacja.dll.config
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\NowaAplikacja.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\NowaAplikacja.pdb
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csc.exe
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csc.exe.config
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csc.rsp
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csi.exe
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csi.exe.config
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csi.rsp
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.AppContext.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Collections.Immutable.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Console.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.Compression.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.FileSystem.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.Pipes.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Reflection.Metadata.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.AccessControl.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Claims.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.ValueTuple.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.XPath.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\vbc.exe
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\vbc.exe.config
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\vbc.rsp
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\VBCSCompiler.exe
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\VBCSCompiler.exe.config
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Antlr3.Runtime.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.SqlServer.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Google.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Web.Infrastructure.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Newtonsoft.Json.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Owin.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Helpers.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Mvc.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Optimization.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Razor.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Deployment.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Razor.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\WebGrease.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Helpers.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Mvc.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Optimization.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Razor.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Deployment.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Razor.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Newtonsoft.Json.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Antlr3.Runtime.pdb
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.SqlServer.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Google.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Helpers.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Mvc.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Optimization.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Razor.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.WebPages.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csprojAssemblyReference.cache
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.CoreCompileInputs.cache
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.CopyComplete
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.dll
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.pdb
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.Migrations.InitialCreate.resources
+H:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.GenerateResource.cache
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\NowaAplikacja.dll.config
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\NowaAplikacja.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\NowaAplikacja.pdb
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csc.exe
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csc.exe.config
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csc.rsp
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csi.exe
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csi.exe.config
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\csi.rsp
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.AppContext.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Console.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.Compression.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Claims.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.ValueTuple.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\vbc.exe
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\vbc.exe.config
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\vbc.rsp
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\VBCSCompiler.exe
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Antlr3.Runtime.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.SqlServer.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Newtonsoft.Json.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Owin.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Helpers.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Mvc.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Optimization.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Razor.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Razor.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\WebGrease.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Helpers.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Mvc.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Optimization.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.Razor.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\System.Web.WebPages.Razor.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Newtonsoft.Json.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Antlr3.Runtime.pdb
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\EntityFramework.SqlServer.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csprojAssemblyReference.cache
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.Migrations.InitialCreate.resources
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.GenerateResource.cache
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.CoreCompileInputs.cache
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.CopyComplete
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.dll
+C:\MEGA chmura\Studia III rok\Semestr II\Administrowanie baz danych\NowaAplikacja\NowaAplikacja\obj\Debug\NowaAplikacja.pdb
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\NowaAplikacja.dll.config
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\NowaAplikacja.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\NowaAplikacja.pdb
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\csc.exe
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\csc.exe.config
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\csc.rsp
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\csi.exe
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\csi.exe.config
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\csi.rsp
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Console.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\vbc.exe
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\vbc.exe.config
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\vbc.rsp
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Antlr3.Runtime.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\EntityFramework.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Newtonsoft.Json.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Owin.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Helpers.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Mvc.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Optimization.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Razor.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.WebPages.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\WebGrease.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Helpers.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Mvc.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Optimization.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.Razor.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.WebPages.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Newtonsoft.Json.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\EntityFramework.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.csprojAssemblyReference.cache
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.Migrations.InitialCreate.resources
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.GenerateResource.cache
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.CoreCompileInputs.cache
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.csproj.CopyComplete
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.dll
+C:\Users\AiXen\Desktop\2. ASP.NET - ROLE\NowaAplikacja\obj\Debug\NowaAplikacja.pdb
