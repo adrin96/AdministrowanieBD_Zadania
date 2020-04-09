@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="30776410-86FF-8738-373A-7462532A0816" name="Adres">
+<createdBy>AiXen</createdBy>
+<createdTime>2020-04-08 16:29:37 UTC</createdTime>
+<ownerDesignName>LogicznyModelŚwiadczenieLekarz</ownerDesignName>
+<engineerTo>
+<item key="8C8767B8-4069-5652-60A8-FAB25ABB8ACE" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

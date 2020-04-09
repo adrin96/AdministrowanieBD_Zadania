@@ -1,0 +1,300 @@
+﻿<!DOCTYPE html>
+<html lang="pl-PL">
+
+<head>
+    <title> Deklaracja wyboru świadczenia </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Adrian Kut">
+    <meta name="keywords" content="deklaracja">
+    <meta name="description" content="deklaracja wyboru">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="arkusze.css" type="text/css">
+    <link rel="icon"
+    href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/2000px-Circle-icons-computer.svg.png" 
+    type="image/x-icon">
+</head>
+
+
+<body>
+    <div align="center" id="main">
+
+
+        <header>
+            DEKLARACJA WYBORU ŚWIADCZENIODAWCY UDZIELAJACEGO <br>
+            ŚWIADCZEŃ Z ZAKRESU PODSTAWOWEJ OPIEKI ZDROWOTNEJ <br>
+            ORAZ LEKARZA PODSTAWOWEJ OPIEKI ZDROWOTNEJ
+        </header>
+
+      
+        <form action="mailto: adres@o2.pl" method="get" name="form1">
+
+        <table class="glowna_tabela" border="2px" height="1%" width="70%" >
+<tr>
+    <td colspan="3" align="center" style="background-color: lightgrey;">
+            <label style="font-weight: bold; font-size: 20px;"> I. DANE DOTYCZĄCE ŚWIADCZENIOBIORCY </b> </label> </div>
+          
+    
+    </td>
+        
+</tr>
+
+        <tr> 
+            <td> 
+                    <label>1. Imię </label> <br>
+                    <input type="text" name="imie" required />
+            </td>
+            <td>
+                    <label>2. Nazwisko </label>
+                    <input type="text" name="nazwisko" required>
+            </td>
+            <td>
+                    <label>3. Nazwisko rodowe </label><br>
+                    <input type="text" name="nazwisk_rodowe">
+            </td>
+            
+        </tr>
+
+
+        <tr>
+            <td>
+                    <label>4. Data urodzenia </label><br>
+                    <input type="date" name="data_urodzin" value="2001-01-01" min="2001-01-01" max="2019-03-10" required date>
+            </td>
+            <td>
+                    <label>5. Płeć </label><br>
+                    <input type="radio" name="Płeć" value="K" id="k" required> <label for="k">K</label>
+                    <input type="radio" name="Płeć" value="m" id="m" required> <label for="m">M</label>
+
+            </td>
+            <td>
+                    <label>6. Numer PESEL, o ile został nadany </label>
+                    <input type="text" name="PESEL" maxlength="11" required pattern="[0-9]{11}">
+            </td>
+
+        </tr>
+
+            
+    <tr>
+
+       <td colspan="3" align="center">
+           <label> <b></b>7. Adres zamieszkania </label>
+       </td>
+    </tr>
+    <tr>
+
+       
+
+       <td>
+            <label>Ulica </label><br>
+            <input type="text" name="adres" required>
+       </td>
+            
+       <td>
+            <label>Numer domu/mieszkania </label>
+            <input type="number" name="nr_domu" size="4" maxlength="7" min="0" max="999999" required>
+
+       </td>
+            
+       <td>
+
+      
+            <label>Kod pocztowy i miejscowość </label><br>
+            <input type="text" name="kod_pocztowy" size="1" maxlength="2" required pattern="[0-9]{2}">
+            <b> - </b>
+            <input type="text" name="kod_pocztowy" size="1" maxlength="3" required pattern="[0-9]{3}"> <br>
+        </td>
+    </tr>
+
+    <tr>
+            <td colspan="3">
+                    <label>8. Numer telefonu </label>
+                    <input type="text" name="nr_tel" maxlength="9" required pattern="[0-9]{9}">
+        
+            </td>
+    </tr>
+    <hr>
+
+        
+            
+            &ensp;
+            <tr>
+                    <td colspan="3">
+            <label>9. Miejsce nauki w przypadku uczniów i studentów </label>
+            <input type="note" name="miejsce_nauki">
+
+        </td>
+    </tr>
+        
+
+         <tr>
+                    <td>
+
+            <label>10. Numer karty ubezpieczenia zdrowotnego <sup>1) </sup></label>
+            <input type="number" name="nr_karty" required> &ensp;
+            </td>
+
+            <td colspan="2">
+                    <label>11. Kod oddziału wojewódzkiego Narodowego Funduszu Zdrowia </label>
+                    <input type="number" name="kod_oddziału" required>
+            </td>
+         
+        </table>
+
+        
+            <br>
+            </b>
+
+            <table border="0px" height="2%" width="55%" style="margin: 0.1%">
+                <tr>
+                    <td align="center">
+                        <input type="date" name="data" value="2019-03-10" required date>
+                    </td>
+
+                    <td align="center">
+                        <input type="text" name="podpis" size="50" required>
+                    </td>
+
+                </tr>
+
+                <font size="2">
+                    <tr>
+                        <td align="center">
+                            (data)
+                        </td>
+
+                        <td align="center">
+                            (podpis świadczeniobiorcy lub opiekuna prawnego)
+                        </td>
+                    </tr>
+                </font>
+            </table>
+
+
+            <br>
+            <label class="naglowek"> II. DANE DOTYCZĄCE ŚWIADCZENIODAWCY </label><br>
+            <label> Na podstawie art. 28 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej <br>
+                finansowanych ze środków publicznych deklaruję wybór: </label> <br>
+            <textarea rows="5%" cols="100%" placeholder="dane dotyczące świadczeniodawcy- nazwa (firma) siedziba i miejsce udzielania świadczeń"></textarea>
+            <br>
+            <label>W bieżącym roku dokonuje wyboru: <sup> 2) </sup> </label> <br>
+            <label><input type="radio" name="wybor1" value="1" required>Po raz pierwszy</label>
+            <label><input type="radio" name="wybor1" value="2" required>Po raz drugi</label>
+            <label><input type="radio" name="wybor1" value="3" required>Po raz trzeci</label>
+            <label><input type="radio" name="wybor1" value="+" required>Po raz kolejny</label>
+
+            <br>
+            <br><label class="naglowek"> III. DANE DOTYCZĄCE LEKARZA PODSTAWOWEJ OPIEKI ZDROWOTNEJ </label><br>
+            <label>na podstawie art. 28 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej
+                <br>finansowanych ze środków publicznych deklaruję wybór: <sup>3)</sup> </label> <br>
+            <textarea rows="5%" cols="100%"
+                placeholder="imię i nazwisko lekarza podstawowej opieki zdrowotnej"></textarea>
+            <br>
+            <label>W bieżącym roku dokonuje wyboru: <sup> 2) </sup> </label> <br>
+            <label><input type="radio" name="wybor2" value="1" required>Po raz pierwszy</label>
+            <label><input type="radio" name="wybor2" value="2" required>Po raz drugi</label>
+            <label><input type="radio" name="wybor2" value="3" required>Po raz trzeci</label>
+            <label><input type="radio" name="wybor2" value="+" required>Po raz kolejny</label>
+
+            <table border="0px" height="1%" width="55%" style="margin: 2%">
+                <tr>
+
+                    <td align="center">
+                        <input type="date" name="data" value="2019-03-10" required date>
+                    </td>
+
+                    <td align="center">
+                        <input type="text" name="podpis" size="50" required>
+                    </td>
+
+                </tr>
+
+                <font size="2">
+
+                    <tr>
+
+                        <td align="center">
+                            (data)
+                        </td>
+
+                        <td align="center">
+                            (podpis świadczeniobiorcy lub opiekuna prawnego)
+                        </td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td colspan="2" align="right">
+                            &nbsp;
+                        </td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td>
+                        </td>
+
+                        <td align="center">
+                            <input type="text" name="podpis" size="50" required>
+                        </td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td>
+                        </td>
+
+                        <td align="center">
+                            (podpis osoby przyjmującej deklarację wyboru)
+                        </td>
+
+                    </tr>
+
+                </font>
+            </table>
+
+
+            <label class="objasnienia"><u> <b> Objaśnienia: </b></u> <br>
+                <sup> 1) </sup> Jeżeli świadczeniobiorcy została wydana karta ubezpieczenia zdrowotnego, a w przypadku
+                osób uprawnionych na podstawie <br>
+                przepisów o koordynacji – numer poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej w
+                ramach <br>
+                ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej. <br>
+                <sup> 2) </sup> Świadczeniobiorca ma prawo bezpłatnego wyboru świadczeniodawcy, lekarza, pielęgniarki i
+                położnej podstawowej opieki <br>
+                zdrowotnej nie częściej niż trzy razy w roku kalendarzowym, a w przypadku każdej kolejnej zmiany wnosi
+                opłatę <br>
+                w wysokości 80 zł. Świadczeniobiorca nie ponosi opłaty w przypadku zmiany swojego miejsca zamieszkania
+                lub w przypadku <br>
+                zaprzestania udzielania świadczeń opieki zdrowotnej przez wybranego świadczeniodawcę, lekarza,
+                pielęgniarkę lub położną <br>
+                podstawowej opieki zdrowotnej u wybranego świadczeniodawcy lub z innych przyczyn powstałych po stronie
+                <br>
+                świadczeniodawcy (art. 28 ust. 1c i 1d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki
+                zdrowotnej finansowanych <br>
+                ze środków publicznych). <br>
+                <sup> 3) </sup> Świadczeniobiorca może wybrać lekarza, pielęgniarkę lub położną podstawowej opieki
+                zdrowotnej u tego samego <br>
+                świadczeniodawcy, u różnych świadczeniodawców albo będących świadczeniodawcami (art. 28 ust. 1b ustawy z
+                dnia <br>
+                27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych).
+            </label>
+
+
+            <p style="align-content: center; margin: 1cm; padding: 1%;">
+                <input type="reset" class="btn btn-danger" value="RESET">
+                <input type="submit" class="btn btn-primary" value="WYŚLIJ">   
+
+            </p>
+
+
+        </form>
+        </b>
+
+</body>
+
+</html>

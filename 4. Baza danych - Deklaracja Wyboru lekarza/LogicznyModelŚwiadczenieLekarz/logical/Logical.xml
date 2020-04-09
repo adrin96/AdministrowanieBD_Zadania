@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="047BE297-42E5-B442-57AA-FC9F6E714246" mainViewID="6FDF7D59-D9B0-EA94-D146-AB6ECAD29FE5">
+<createdBy>AiXen</createdBy>
+<createdTime>2020-04-08 16:29:17 UTC</createdTime>
+<ownerDesignName>LogicznyModelŚwiadczenieLekarz</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

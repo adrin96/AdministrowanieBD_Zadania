@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_1" directorySegmentName="seg_0" id="8F3059AE-46E7-F5CF-DA44-912B073DBF63">
+<createdBy>AiXen</createdBy>
+<createdTime>2020-04-08 16:35:41 UTC</createdTime>
+<ownerDesignName>LogicznyModelŚwiadczenieLekarz</ownerDesignName>
+<engineerTo>
+<item key="8C8767B8-4069-5652-60A8-FAB25ABB8ACE" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>05D7D369-94D7-5A91-E704-153F8B44880F</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>30776410-86FF-8738-373A-7462532A0816</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
