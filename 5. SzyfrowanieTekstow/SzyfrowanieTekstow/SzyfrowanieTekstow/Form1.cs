@@ -71,7 +71,7 @@ namespace SzyfrowanieTekstow
             word = textBoxNormal.Text.ToLower().ToCharArray(); 
             if (textBoxNormal.Text =="")
             {
-                MessageBox.Show("Wprowadź tekst!", "Informacja", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Wprowadź tekst do zaszyfrowania!", "Informacja", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
@@ -113,7 +113,7 @@ namespace SzyfrowanieTekstow
 
             if (textBoxEncripted.Text == "")
             {
-                MessageBox.Show("Wprowadź tekst!","Informacja",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                MessageBox.Show("Wprowadź tekst do odszyfrowania!","Informacja",MessageBoxButtons.OK,MessageBoxIcon.Information);
             }
             else
             {
