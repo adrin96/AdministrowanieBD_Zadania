@@ -51,17 +51,22 @@ namespace Uwierzytelnianie
             {
                 if (who.Equals("button1"))
                 {
-                    int? x = null;
+                    int? x = 0;
                     DataClasses1DataContext dcContext = new DataClasses1DataContext(@connectionString);
-                    // var wynik = dcContext.SprawdzHaslo(sLogin, sHaslo,ref x);
+                    dcContext.SprawdzHaslo(sLogin, sHaslo,ref x);
+                    if (x > 0)
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
 
-
-                    var wynik = from l in dcContext.Uzytkownicies
-                                where (l.Login == sLogin) && (l.Haslo == sHaslo)
-                                select l.Login;
-
-
-                    return (wynik.Count() != 0);
+                    //var wynik = from l in dcContext.Uzytkownicies
+                    //            where (l.Login == sLogin) && (l.Haslo == sHaslo)
+                    //            select l.Login;
+                    //return (wynik.Count() != 0);
 
                 }
                 if (who.Equals("button2"))
